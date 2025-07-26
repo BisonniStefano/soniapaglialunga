@@ -6,7 +6,7 @@ export default function ChiSonoPage() {
       <div className=" text-gray-800 py-20 px-6 text-center">
         <h2 className="text-4xl font-semibold mb-4">La mia missione</h2>
         <p className="max-w-2xl mx-auto text-lg">
-          Supporto aziende e professionisti nel costruire un’immagine coerente, credibile e strategica.
+          Supporto aziende e professionisti nel costruire un&apos;immagine coerente, credibile e strategica.
           Perché il modo in cui ci presentiamo influisce direttamente sulla fiducia, sulla leadership e sul business.
         </p>
       </div>
@@ -15,16 +15,16 @@ export default function ChiSonoPage() {
       <div className="bg-sky-100 text-gray-900 py-20 px-6 text-left">
         <h2 className="text-4xl font-semibold mb-4">Un percorso tra comunicazione e brand identity</h2>
         <p className="max-w-2xl mr-auto text-lg">
-          Dopo una formazione in ambito comunicazione e marketing, ho deciso di specializzarmi nell'immagine professionale.
+          Dopo una formazione in ambito comunicazione e marketing, ho deciso di specializzarmi nell&apos;immagine professionale.
           Collaboro con aziende, executive e team HR per allineare presenza, stile e valori aziendali.
         </p>
       </div>
 
       {/* Sezione 3 – Filosofia di stile */}
       <div className="text-gray-900 py-20 px-6 text-right">
-        <h2 className="text-4xl font-semibold mb-4">L'immagine come asset strategico</h2>
+        <h2 className="text-4xl font-semibold mb-4">L&apos;immagine come asset strategico</h2>
         <p className="max-w-2xl ml-auto text-lg">
-          L’immagine non è solo estetica: è un linguaggio visivo che comunica fiducia, autorevolezza e cultura aziendale.
+          L&apos;immagine non è solo estetica: è un linguaggio visivo che comunica fiducia, autorevolezza e cultura aziendale.
           Per questo, ogni intervento è pensato come parte integrante della strategia di branding.
         </p>
       </div>

@@ -26,7 +26,7 @@ export default function ContattiPage() {
 
         {/* Paragrafo introduttivo */}
         <p className="max-w-3xl mx-auto text-lg text-gray-700 mb-4">
-          Se desideri valorizzare l’immagine del tuo team, potenziare la presenza dei tuoi leader 
+          Se desideri valorizzare l&apos;immagine del tuo team, potenziare la presenza dei tuoi leader 
           o migliorare la percezione del brand attraverso una comunicazione visiva efficace, sono qui per affiancarti.
         </p>
 
